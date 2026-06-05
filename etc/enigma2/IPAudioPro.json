@@ -7,51 +7,6 @@
                 "url": "http://streams-link"
             },
             {
-                "name": "BEIN SPORTS 1",
-                "display_name": "BEIN SPORTS 1",
-                "url": "http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:B6:E7:03&stream=242242&extension=ts"
-            },
-            {
-                "name": "BEIN SPORTS 2",
-                "display_name": "BEIN SPORTS 2",
-                "url": "http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:B6:E7:03&stream=242241&extension=ts"
-            },
-            {
-                "name": "BEIN SPORTS 3",
-                "display_name": "BEIN SPORTS 3",
-                "url": "http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:B6:E7:03&stream=242240&extension=ts"
-            },
-            {
-                "name": "BEIN SPORTS 4",
-                "display_name": "BEIN SPORTS 4",
-                "url": "http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:B6:E7:03&stream=242239&extension=ts"
-            },
-            {
-                "name": "BEIN SPORTS 5",
-                "display_name": "BEIN SPORTS 5",
-                "url": "http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:B6:E7:03&stream=242238&extension=ts"
-            },
-            {
-                "name": "BEIN SPORTS 6",
-                "display_name": "BEIN SPORTS 6",
-                "url": "http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:B6:E7:03&stream=242237&extension=ts"
-            },
-            {
-                "name": "BEIN SPORTS 7",
-                "display_name": "BEIN SPORTS 7",
-                "url": "http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:B6:E7:03&stream=242236&extension=ts"
-            },
-            {
-                "name": "BEIN SPORTS 8",
-                "display_name": "BEIN SPORTS 8",
-                "url": "http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:B6:E7:03&stream=242235&extension=ts"
-            },
-            {
-                "name": "BEIN SPORTS 9",
-                "display_name": "BEIN SPORTS 9",
-                "url": "http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:B6:E7:03&stream=242234&extension=ts"
-            },
-            {
                 "name": "BEIN SPORTS 1 HD (New MAC)",
                 "display_name": "BEIN SPORTS 1 HD (New MAC)",
                 "url": "http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=894995&extension=ts"
